@@ -7,6 +7,7 @@ export default function Privacy() {
   <div className="animateHeader text-white text-opacity-40 mt-5">
         <p>⊳ To use the SierraBOT bot, you must define the necessary permissions when adding it to your discord server.</a></p>
         <div className="py-3"></div>
+        <div className="py-3"></div>
         <p>⊳ Every user can use the SierraBOT bot however they want, as long as they do not intend to harm.</p>
         <div className="py-3"></div>
         <p>⊳ You cannot use certain commands at the same time while using SierraBOT.</p>   

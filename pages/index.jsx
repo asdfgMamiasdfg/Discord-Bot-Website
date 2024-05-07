@@ -13,7 +13,7 @@ export default function Index() {
           SierraBOT
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       How about moderating your own server with SierraBOT? Create your own free world and create your own playlist, experience this pleasure with the best sounds. 
+       Birçok özellik barındıran ve her geçen gün daha da yükselen SierraBOT ile sunucunuzu renklendirin. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   

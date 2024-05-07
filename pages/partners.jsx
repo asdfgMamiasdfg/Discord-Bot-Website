@@ -13,7 +13,7 @@ export default function Partners() {
                 </h1>
             </div>
 
-            <div className="lg:max-w-screen-lg mt-10 mx-auto grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div classNamx-w-screen-lg mt-10 mx-auto grid grid-cols-1 md:grid-cols-2 gap-4">
 
             <div className="flex flex-col justify-center text-white rounded">
             <a href="https://codeshare.me">

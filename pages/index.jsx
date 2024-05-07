@@ -19,15 +19,14 @@ export default function Index() {
   
             <Link href={"https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=applications.commands%20bot"}>
               <a
-                
+                className={
+                  "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
+                }
+              >
+          Invite SierraBOT
               </a>
             </Link>
-  <div className="py-10"></div>
-  <Link href={"https://top.gg/bot/774043716797071371/vote"}>
-  <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote SierraBOT</a>
-  </Link>
-        </div>
+
 
         <div style={{ zIndex: '-1' }} className="hidden xl:block undrag pointer-events-none opacity-10 -left-[10vw] absolute top-[8vw] h-[35vw] flex-shrink-0 grayscale rotate-[1deg]">
         <Image width="600" height="600" src="/img/gift-left.png"  />
